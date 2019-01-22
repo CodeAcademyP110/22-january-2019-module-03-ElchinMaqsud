@@ -1,0 +1,62 @@
+(1).Proqramlasdirma Paradigmalari hansilardir?
+
+1.Imperativ
+2.Funksional
+3.Mentiqi
+4.Obyekt-yonumlu
+5.Paralel
+6.Event-driven(hadise idare)
+7.Flow-driven(axini idare)
+8.Constraint(mehdudiyyet)
+9.Aspect yonumlu
+10.Reflective(yansitici)
+11.Array 
+
+https://www.google.az/search?biw=1366&bih=657&tbm=isch&sa=1&ei=JUZHXJmxBcWfsgHGwKWoAw&q=program+language+paradigms+list&oq=program+language+paradigms+list&gs_l=img.3...5012.24677..24878...10.0..4.198.7631.0j63......2....1..gws-wiz-img.....0..0j0i10j0i30j0i5i30j0i8i30j0i24.Faj0n4jp43Y#imgrc=0oakFLFA1dUTBM:
+
+
+
+(2).Imperativ ve deklarativ paradigmalar arasindaki 5 ferq: Source(https://www.youtube.com/watch?v=M2e5sq1rnvc, https://medium.freecodecamp.org/imperative-vs-declarative-programming-283e96bf8aea)
+
+1. Imperativde neyi nece edeceyimiz? Mes: taksi cagirmisam deiremki sur. sulh kucesinden saga don.
+ azadliq prospekti ile davam et.Nesimi kucesinde sola don. Plaza otelin qabaginda saxla
+Declarativde ise taksiye otururuq. Meni Plaza otele apar deirik
+
+2.Imperativ dilde meselcun  kompyterin ekrani qirilib  men onu temir elemek istiyirem . bunun ucun gedib ekran aliram. aletleri gotururem, qiriq  ekrani sokurem.
+yeni ekrani qurasdiriram yeni pille pille neticeni elde edirem.
+Deklarativ dilde ise  kompyuterin ekrani qirilib men ustaya aparib verirem.
+ustanin menim kompumun ekranin nece,  hansi aletdernen duzeltmeyini gormurem. neticede ekranimin duzelmeyin gozduyurem.
+
+3.Imperativ dilde  dostlarimnan restorana gelirik.. ozumuz yer axtaririq.
+ kuncde bos masa goruruk ve ora kecirik.
+Deklorativ dilde ise restorana gelirik 5 neferik.
+qarsona bize 5 neferlik masa gostermesini deyirik.
+
+4. Imperativ-Kompyuterimin ekrani qirilib.ozum gedib yeni ekran aliram. gelirem eve...aletdei goturub basdiyiram sokmeye
+sonra teze ekrani qurasdiriram 
+Deklarativ- kompyuterin ekrani qirilib. aparib verirem ustaya. usta onu nece duzeldir hansi aletdernen duzeldir. maraqli deil netice ekranim isdesin
+
+5. Imperativ-diplom mudafiesin ozum edirem kurs islerin filan yaziram sirayla.
+deklarativ- pul ile kurs islerin serbest isleri yazdiriram.. 
+nece yazilacagi ise onemli deil neticede tapsiriqlar hazir olur
+
+
+(3).obyekt-yonumlu paradiqma haqqinda real 3 numune:(https://medium.com/@kkajasu/object-oriented-programming-with-real-world-example-63f69f917d62)
+
+1.abstraction- biz zeng nomrelerden istifade edib zeng edirik,
+ama bu nomrelerin bir biri ile nece qosuldugunu bilmirik
+biz bluetooth la melumat wekil mahni gonderirik,
+ ama bunun basqa telefonla ve ya cihazla nece qosuldugunu bilmirik.
+
+2.Encapsulation-  ne vaxt bluetooth yanir biz basqa telefona qosula bilirik 
+ama bu telefondan  zeng ede ve ya sms yaza bilmirik.
+
+3. Polymorphism- meselen bir telefonu bir duymeyle eyni zaman hem yandiririq hem sondururuk
+
+
+(4).proqramlasdirma paradiqmalarindan hansini ozunuze daha yaxin hesab edirsiz?(sebebi detalli
+Mence coxumuz ucun deklarativ usul daha yaxin gelir cunki orda emrler azdi vaxt itkisi azdi netice tez elde olunur..bu musbet terefidi
+menfi terefi ise sadece bir emrle butun prosedurun neticesin elde edirik..
+Ama mence tekce deklarativ deilde uygun yerinde imperativden de , obyekt-yonumluden de  istifade ederek hem ozumuzun rahat anlayacagimiz hemde tam bir code yaza bilerik...
+
+
